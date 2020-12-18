@@ -16,11 +16,18 @@ pour les injecter j'ai utilisé le boutton Créer, puis, source de données, Goo
 Les ressources qui m'ont aidé à créer mon dashboard sont : 
 
 Sources de données : 
+
 https://www.stats.govt.nz/large-datasets/csv-files-for-download/
 
 Démo dashboard : 
+
 https://www.youtube.com/watch?v=4xmyomDMnnc
+
 https://www.youtube.com/watch?v=zBafCSDD58I
+
 https://www.youtube.com/watch?v=C1w-yuTDUeM&t=1699s
+
 https://www.youtube.com/watch?v=YpzdxViSfvA
+
 https://www.youtube.com/watch?v=R0rV4ZS-ruQ
+
